@@ -45,3 +45,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+cifar-10-batches-py/batches.meta
+cifar-10-batches-py/data_batch_1
+cifar-10-batches-py/data_batch_2
+cifar-10-batches-py/data_batch_3
+cifar-10-batches-py/data_batch_4
+cifar-10-batches-py/data_batch_5
+cifar-10-batches-py/readme.html
+cifar-10-batches-py/test_batch
+cifar-10-python.tar.gz
+__pycache__/helper.cpython-35.pyc
+__pycache__/problem_unittests.cpython-35.pyc
+.ipynb_checkpoints/dlnd_image_classification-checkpoint.ipynb
