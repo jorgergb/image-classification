@@ -66,3 +66,7 @@ preprocess_test.p
 preprocess_validation.p
 Tests.ipynb
 .ipynb_checkpoints/Tests-checkpoint.ipynb
+image_classification.data-00000-of-00001
+checkpoint
+image_classification.index
+image_classification.meta
